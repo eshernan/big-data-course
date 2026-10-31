@@ -49,6 +49,8 @@ Al retomar el trabajo, activar `.venv` y cargar `~/.config/bigdata/entorno.sh` a
 
 ## Guías complementarias
 
+- [Gobernanza de datos en Big Data](docs/gobernanza-datos-bigdata.md): estrategia, responsabilidades, calidad, seguridad, linaje y controles aplicados al pipeline del curso.
+
 Material de consulta y práctica para acompañar los ejercicios del curso.
 
 - [Guía de línea de comandos de Linux](docs/guia-cli-linux/README.md): se anexó como apoyo para personas con poca experiencia en la CLI de Linux. Incluye navegación, manejo de archivos, `grep`, `wc`, AWK, verificaciones rápidas y un cheat sheet de 100 comandos con sus opciones habituales. Disponible en [PDF](docs/guia-cli-linux/Guia_Linea_de_Comandos.pdf) y [HTML](docs/guia-cli-linux/index.html).
