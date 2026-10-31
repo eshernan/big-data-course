@@ -49,6 +49,8 @@ Al retomar el trabajo, activar `.venv` y cargar `~/.config/bigdata/entorno.sh` a
 
 ## Guías complementarias
 
+- [Gobernanza de datos en Big Data](docs/gobernanza-datos-bigdata.md): estrategia, responsabilidades, calidad, seguridad, linaje y controles aplicados al pipeline del curso.
+
 Material de consulta y práctica para acompañar los ejercicios del curso.
 
 - [Guía de línea de comandos de Linux](docs/guia-cli-linux/README.md): se anexó como apoyo para personas con poca experiencia en la CLI de Linux. Incluye navegación, manejo de archivos, `grep`, `wc`, AWK, verificaciones rápidas y un cheat sheet de 100 comandos con sus opciones habituales. Disponible en [PDF](docs/guia-cli-linux/Guia_Linea_de_Comandos.pdf) y [HTML](docs/guia-cli-linux/index.html).
@@ -69,14 +71,14 @@ Material de consulta y práctica para acompañar los ejercicios del curso.
 - [Índice completo de talleres](talleres/README.md), con descargas, tamaños y criterios.
 - [Kit base](kit/README.md), [manifiesto agroambiental](kit/fuentes.json), [manifiesto PQRS base](kit/pqrs_fuentes.json) y [cortes adicionales 2023–2025](kit/pqrs_fuentes_adicionales_2023_2025.json).
 - [Descargador PQRS](kit/pqrs_descarga.py) y [prácticas reproducibles PQRS](kit/pqrs_talleres.py).
-- [Proyecto y evaluación por dominio](proyecto/README.md) y [mapa de ejercicios y prerrequisitos](docs/mapa-ejercicios.md).
+- [Proyecto final sobre municipios de Boyacá](proyecto/README.md) y [mapa de ejercicios y prerrequisitos](docs/mapa-ejercicios.md).
 - [Notebooks actuales](kit/Notebooks/README.md) y [notebooks históricos Supersalud](supersalud/README.md), preservados como referencia.
 
 Los originales agroambientales suman 136,4 MB. P04 utiliza seis cortes completos PQRS de 2023–2025: 5.327.501 registros y aproximadamente 3,830 GB descomprimidos. Las tres muestras reales incluidas suman 2,235 MB. Los originales voluminosos y salidas se excluyen de Git. La instalación se comprueba durante la clase 2 y el docente ofrece una copia validada para continuidad de los talleres.
 
 ## Temario del 30 y 31 de octubre
 
-[Temario desarrollado](docs/temario-30-31-octubre.md) y [guía de pipelines y DataOps](docs/pipelines-dataops.md): primero propósito y conceptos, después esquemas industriales (ETL, ELT, Medallion y CDC), ejemplo PQRS y ejercicios guiados. La aplicación integra validación, publicación Parquet, SQL y reejecución. E12 se incorpora al candidato del proyecto; la predicción EVA queda como referencia opcional. La [solución integrada E12](soluciones/E12_solucion.ipynb) ejecuta el recorrido completo con las tres muestras PQRS.
+[Temario desarrollado](docs/temario-30-31-octubre.md) y [guía de pipelines y DataOps](docs/pipelines-dataops.md): primero propósito y conceptos, después esquemas industriales (ETL, ELT, Medallion y CDC), ejemplo PQRS y ejercicios guiados. La aplicación integra validación, publicación Parquet, SQL y reejecución. E12 y la predicción EVA quedan como material de referencia; el único ejercicio final pendiente es el [proyecto sobre Boyacá](proyecto/Proyecto_final_Boyaca.md). La [solución integrada E12](soluciones/E12_solucion.ipynb) ejecuta el recorrido completo con las tres muestras PQRS.
 
 ## Cierre del proyecto
 
