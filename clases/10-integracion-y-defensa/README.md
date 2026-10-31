@@ -35,4 +35,4 @@ Recesos 09:30–09:45 y 15:00–15:15; almuerzo 12:00–13:00.
 
 ## Entrega
 
-La integración y auditoría son trabajo formativo. El único ejercicio final pendiente es el [proyecto individual de Boyacá](../../proyecto/Proyecto_final_Boyaca.md), cuya entrega y sustentación están previstas para el 7 de noviembre. E12 y E13 quedan como referencias, sin entregas adicionales.
+La integración y auditoría son trabajo formativo. El único ejercicio final pendiente es el [proyecto de Boyacá por grupos](../../proyecto/Proyecto_final_Boyaca.md), con sustentación individual y entrega previstas para el 7 de noviembre. E12 y E13 quedan como referencias, sin entregas adicionales.
